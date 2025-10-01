@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <header class="page-header" role="banner">
-  <h1 class="project-name">{{ site.title }}</h1>
-  <h2 class="project-tagline">{{ site.description }}</h2>
-  </header>
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,6 +13,11 @@
   </head>
   <body>
     <header class="page-header" role="banner">
+      <!-- Logo (add your PNG under assets/images/logo.png) -->
+      <img src="{{ "/assets/images/logo.png" | relative_url }}" 
+           alt="QinAI Studio Logo" 
+           style="width:64px;height:64px; margin-bottom: 1rem;">
+      
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline">{{ site.description }}</h2>
       {% if site.header_pages %}
