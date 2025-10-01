@@ -5,6 +5,8 @@ theme: minima
 header_pages:
   - index.md
   - privacy.md
+  - tos.md
+
 
 footer_content: "© 2025 QinAI Studio. All rights reserved."
 
