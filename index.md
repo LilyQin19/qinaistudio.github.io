@@ -13,7 +13,7 @@ Our work is grounded in the belief that **execution, tooling, and data** are the
 
 **Contact**  
 📧 Email: [hongrong@qinaistudio.com](mailto:hongrong@qinaistudio.com)  
-🔗 LinkedIn: [Lily Qin](https://www.linkedin.com/in/lily-qin-2312382)  
+🔗 LinkedIn: [Lily Qin](https://www.linkedin.com/in/lily-qin-2312382/)  
 
 ---
 
