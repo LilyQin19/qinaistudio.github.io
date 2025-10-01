@@ -1,14 +1,18 @@
 title: "QinAI Studio"
-description: "Human-first, AI-first innovation for real-world impact"
+description: "Human-first AI Agents for real-world impact"
 theme: jekyll-theme-cayman
 
-# Navigation links (top menu)
+# Top navigation menu (optional)
 header_pages:
   - index.md
   - privacy.md
   - tos.md
 
-# Footer with quick links
-footer_content: "© 2025 QinAI Studio · [Privacy](/privacy) · [Terms](/tos)"
+# Custom includes (favicon + footer)
+# head-custom.html will insert the favicon
+# footer.html will override the default GitHub Pages footer
+plugins:
+  - jekyll-include-cache
+
 
 
