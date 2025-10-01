@@ -13,26 +13,27 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <div class="header-container">
-        <div class="header-text">
-          <h1 class="project-name">{{ site.title }}</h1>
-          <h2 class="project-tagline">{{ site.description }}</h2>
-          {% if site.header_pages %}
-            <nav>
-              {% for path in site.header_pages %}
-                {% assign page = site.pages | where: "path", path | first %}
-                {% if page.title %}
-                  <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
-                {% endif %}
-              {% endfor %}
-            </nav>
-          {% endif %}
-        </div>
-        <div class="header-logo">
-          <img src="{{ "/assets/images/logo.png" | relative_url }}" 
-               alt="QinAI Studio Logo"
-               style="width:64px;height:64px;">
-        </div>
+      <!-- Logo floats in top-right -->
+      <img src="{{ "/assets/images/logo.png" | relative_url }}" 
+           alt="QinAI Studio Logo"
+           class="logo-top-right">
+
+      <!-- Centered Title + Tagline -->
+      <div class="header-center">
+        <h1 class="project-name">{{ site.title }}</h1>
+        <h2 class="project-tagline">{{ site.description }}</h2>
+
+        <!-- Navigation -->
+        {% if site.header_pages %}
+          <nav>
+            {% for path in site.header_pages %}
+              {% assign page = site.pages | where: "path", path | first %}
+              {% if page.title %}
+                <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+              {% endif %}
+            {% endfor %}
+          </nav>
+        {% endif %}
       </div>
     </header>
 
