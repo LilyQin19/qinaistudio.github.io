@@ -1,12 +1,14 @@
 title: "QinAI Studio"
-description: ""   # leave blank to avoid repeat footer text
-theme: minima
+description: "Human-first, AI-first innovation for real-world impact"
+theme: jekyll-theme-cayman
 
+# Navigation links (top menu)
 header_pages:
   - index.md
   - privacy.md
   - tos.md
 
+# Footer with quick links
+footer_content: "© 2025 QinAI Studio · [Privacy](/privacy) · [Terms](/tos)"
 
-footer_content: "© 2025 QinAI Studio. All rights reserved."
 
