@@ -1,6 +1,6 @@
 title: "QinAI Studio"
 description: "Human-first AI Agents for real-world impact"
-theme: jekyll-theme-cayman
+theme: minima
 
 # Favicon
 favicon: /favicon.ico
