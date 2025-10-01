@@ -1,4 +1,3 @@
-# QinAI Studio
 
 **Mission**  
 QinAI Studio builds **Human-first, AI-first tools** that sharpen both human and machine intelligence.  
