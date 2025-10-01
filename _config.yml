@@ -1,4 +1,10 @@
-title: QinAI Studio
-description: Human-first AI for real-world impact
+title: "QinAI Studio"
+description: ""   # leave blank to avoid repeat footer text
 theme: minima
+
+header_pages:
+  - index.md
+  - privacy.md
+
+footer_content: "© 2025 QinAI Studio. All rights reserved."
 
