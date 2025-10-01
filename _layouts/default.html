@@ -1,16 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }} | {{ site.title }}</title>
-    <link rel="icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon">
-    {{ site.head }}
-    {{ content }}
+
+    <!-- Favicon -->
+    <link rel="icon" href="{{ "/favicon.ico" | relative_url }}" type="image/x-icon">
+
+    <!-- Cayman theme styles -->
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   </head>
   <body>
-    <main>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+      {% if site.header_pages %}
+        <nav>
+          {% for path in site.header_pages %}
+            {% assign page = site.pages | where: "path", path | first %}
+            {% if page.title %}
+              <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+            {% endif %}
+          {% endfor %}
+        </nav>
+      {% endif %}
+    </header>
+
+    <main id="content" class="main-content" role="main">
       {{ content }}
     </main>
+
+    <!-- Custom footer -->
     <footer class="site-footer">
       <p>© 2025 QinAI Studio · <a href="/privacy">Privacy</a> · <a href="/tos">Terms</a></p>
     </footer>
