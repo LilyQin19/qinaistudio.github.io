@@ -1,6 +1,6 @@
 
 **Mission**  
-QinAI Studio builds **Human-first, AI-first tools** that sharpen both human and machine intelligence.  
+QinAI Studio builds **Human-first AI tools** that sharpen both human and machine intelligence.  
 We focus on agentic AI, developer platforms, and healthcare innovation — creating technology that delivers real-world impact while keeping people at the center.
 
 ---
