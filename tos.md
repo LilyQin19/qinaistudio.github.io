@@ -50,7 +50,7 @@ These Terms are governed by the laws of Washington State, USA, without regard to
 ## 9. Contact Us
 If you have any questions about these Terms, please contact us:  
 📧 [hongrong@qinaistudio.com](mailto:hongrong@qinaistudio.com)  
-🔗 [Lily Qin on LinkedIn](https://www.linkedin.com/in/lilyqin)  
+🔗 [Lily Qin on LinkedIn](https://www.linkedin.com/in/lily-qin-2312382)  
 
 ---
 
