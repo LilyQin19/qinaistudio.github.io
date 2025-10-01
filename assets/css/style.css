@@ -48,3 +48,20 @@ a:hover {
   font-size: 0.9rem;
   color: #6a737d;
 }
+
+/* Flex layout for header: text left, logo right */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-text {
+  text-align: left;
+}
+
+.header-logo img {
+  width: 64px;
+  height: 64px;
+}
+
