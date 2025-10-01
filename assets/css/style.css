@@ -66,6 +66,12 @@ a:hover {
 }
 
 /* Logo positioned top-right */
+/* Center title + tagline container */
+.header-center {
+  text-align: center;
+}
+
+/* Logo fixed in top-right */
 .logo-top-right {
   position: absolute;
   top: 20px;
@@ -73,5 +79,6 @@ a:hover {
   width: 64px;
   height: 64px;
 }
+
 
 
