@@ -58,4 +58,67 @@ It reduces repetitive typing, remembers what you already entered, and lets you r
 
 ### 5️⃣ Smart Fill (Early Beta)
 - In current Beta: profile-based autofill only.
-- In upcoming releases: Form Agent will intelligently infer missing fields (e.g.,
+- In upcoming releases: Form Agent will intelligently infer missing fields (e.g., emergency contact, employer details, relationships).
+
+---
+
+### 6️⃣ Review & Edit
+- Check the filled form visually.
+- Manually correct or update any field.
+- Your edits are saved locally into `review_form.pdf` for full control.
+
+---
+
+### 7️⃣ Sign & Download
+- Use the **signature pad** to draw your name.
+- Click **Confirm & Download** — Form Agent will:
+  - Add your signature on top of your reviewed PDF.
+  - Preserve all your manual edits.
+  - Save the final version as `final_form.pdf`.
+- ✅ No regeneration, no upload, full fidelity.
+
+---
+
+### 8️⃣ Local Memory (Optional / Future)
+- Form Agent will gradually learn your common answers for faster future fills.
+- This data is stored **only on your device**, encrypted if enabled.
+- You can clear or disable it at any time.
+
+---
+
+## 💡 Current Focus Areas
+1. HR and employment forms  
+2. Senior citizen and healthcare forms  
+3. Accessibility and disability support workflows  
+
+---
+
+## 🛡️ Privacy-First Design
+- No remote data storage or third-party API calls.
+- Optional passphrase encryption for your profiles.
+- Fully open local workflow: view all generated files on your disk.
+- Every form stays under your control.
+
+---
+
+## 📈 Roadmap Highlights
+| Stage | Feature | Status |
+|--------|----------|---------|
+| Alpha | Profile + Autofill + Review | ✅ Live |
+| Beta | Local signature & cross-profile reuse | ✅ Live |
+| Beta+ | AI Smart Fill (LLM-assisted) | 🚧 In progress |
+| Beta++ | Memory-based autofill | 🚧 Planned |
+| Release | Dashboard, analytics, team sharing | 🕓 Future |
+
+---
+
+## 💬 Feedback & Contact
+Your input directly shapes the next version of Form Agent!
+
+📧 **Email:** hongrong@qinaistudio.com  
+💼 **LinkedIn:** [Lily Qin]([https://www.linkedin.com/in/lilyqin/](https://www.linkedin.com/in/lily-qin-2312382/)  
+🌐 **App:** [qinaistudio-formagent.streamlit.app](https://qinaistudio-formagent.streamlit.app)
+
+---
+
+> *© 2025 QinAI Studio — Human-First AI Workflows for Real People.*
