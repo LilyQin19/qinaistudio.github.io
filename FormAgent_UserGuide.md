@@ -116,7 +116,7 @@ It reduces repetitive typing, remembers what you already entered, and lets you r
 Your input directly shapes the next version of Form Agent!
 
 📧 **Email:** hongrong@qinaistudio.com  
-💼 **LinkedIn:** [Lily Qin]([https://www.linkedin.com/in/lilyqin/](https://www.linkedin.com/in/lily-qin-2312382/)  
+💼 **LinkedIn:** [Lily Qin][https://www.linkedin.com/in/lily-qin-2312382/] 
 🌐 **App:** [qinaistudio-formagent.streamlit.app](https://qinaistudio-formagent.streamlit.app)
 
 ---
