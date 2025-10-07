@@ -9,7 +9,9 @@ We focus on **agentic AI**, **developer platforms**, and **healthcare innovation
 ### **About Us**
 Founded by **Lily Qin**, QinAI Studio is an early-stage company based in Seattle, WA.  
 Our philosophy: **Execution, tooling, and data** are the strongest moats in AI — and true innovation happens when AI empowers humans, not replaces them.
-
+**Strategic Advisor**  
+[Sam Li](https://www.linkedin.com/in/samsongli/) — AI Infrastructure & Product Innovation  
+Formerly at Coinbase and NewSky Security, Sam supports QinAI Studio’s vision for **Human-First, Agentic AI** through strategic guidance on system design and product direction.
 ---
 
 ### **Products**
