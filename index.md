@@ -7,13 +7,18 @@ We focus on **agentic AI**, **developer platforms**, and **healthcare innovation
 ---
 
 ### **About Us**
-Founded by **Lily Qin**, Former Microsoft, Walgreens and Philips Principal Software Engineering Leader, QinAI Studio is an early-stage company based in Seattle, WA.  
-Our philosophy: **Execution, tooling, and data** are the strongest moats in AI — and true innovation happens when AI empowers humans, not replaces them.
+
+**Founder**  
+[**Lily Qin**](https://www.linkedin.com/in/lily-qin-2312382/) — Agentic AI Infrastructure & Product Innovation  
+A former **Principal Engineering Leader** at **Microsoft, Walgreens, and Philips**, Lily founded **QinAI Studio** to build **Human-First AI workflows** that turn complex automation into something natural, private, and empowering.  
+Headquartered in **Seattle, WA**, QinAI Studio believes the real AI moat is built through **execution, tooling, and data** — not hype. When AI amplifies people instead of replacing them, that’s real innovation.
 
 **Strategic Advisor**  
 [**Sam Li**](https://www.linkedin.com/in/samsongli/) — AI Infrastructure & Product Innovation  
-Formerly **Engineering Leader at Coinbase and Meta**, and **Co-Founder/CTO** of NewSky Security, Sam supports QinAI Studio’s vision for **Human-First, Agentic AI** through strategic guidance.
+Former **Engineering Leader at Coinbase and Meta**, and **Co-Founder/CTO** of **NewSky Security**, Sam brings deep expertise in scaling AI infrastructure and supports QinAI Studio’s mission to shape **Human-First, Agentic AI** for the real world.
 ---
+
+
 
 ### **Products**
 - **[Profile Trust Checker](https://qinaistudio-profilechecker.streamlit.app/)** — evaluates LinkedIn and online profiles for authenticity and trust.  
