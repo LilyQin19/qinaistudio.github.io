@@ -9,7 +9,7 @@ We focus on **agentic AI**, **developer platforms**, and **healthcare innovation
 ### **About Us**
 
 **Founder**  
-[**Lily Qin**](https://www.linkedin.com/in/lily-qin-2312382/) — Agentic AI Infrastructure & Product Innovation  
+[***Lily Qin***](https://www.linkedin.com/in/lily-qin-2312382/) — Agentic AI Infrastructure & Product Innovation  
 A former **Principal Engineering Leader** at **Microsoft, Walgreens, and Philips**, Lily founded **QinAI Studio** to build **Human-First AI workflows** that turn complex automation into something natural, private, and empowering.  
 Headquartered in **Seattle, WA**, QinAI Studio believes the real AI moat is built through **execution, tooling, and data** — not hype. When AI amplifies people instead of replacing them, that’s real innovation.
 
