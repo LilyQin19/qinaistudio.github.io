@@ -1,4 +1,4 @@
-# 🧠 QinAI Studio · Form Agent — Beta User Guide
+# 🧠 QinAI Studio · Form Agent — Alpha User Guide
 
 Form Agent is a **privacy-first AI assistant** that helps you fill, review, and sign PDF forms automatically — all **on your own device**.  
 It reduces repetitive typing, remembers what you already entered, and lets you reuse your information across hundreds of forms securely.
