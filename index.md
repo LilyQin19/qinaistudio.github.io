@@ -19,8 +19,7 @@ Her background spans AI infrastructure, cloud automation, and data-driven health
 [**Sam Li**](https://www.linkedin.com/in/samsongli/) — *AI Infrastructure, Security & Emerging Tech*
 
 Sam is a veteran engineering leader with experience at Coinbase, Meta, and as Co-Founder/CTO of NewSky Security.  
-He advises QinAI Studio on secure, scalable systems and brings deep expertise in AI infrastructure, cybersecurity, and crypto technologies.  
-His strategic and technical guidance helps ensure that QinAI’s products stay grounded in trust, privacy, and real-world reliability.
+He advises QinAI Studio on secure, scalable systems and brings deep expertise in AI infrastructure, cybersecurity, and crypto technologies. His strategic and technical guidance helps ensure that QinAI’s products stay grounded in trust, privacy, and real-world reliability.
 
 ---
 
