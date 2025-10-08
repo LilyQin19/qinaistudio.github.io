@@ -15,9 +15,13 @@ Headquartered in **Seattle, WA**, QinAI Studio believes the real AI moat is buil
 When AI amplifies people instead of replacing them, that’s real innovation.
 
 #### **Strategic Advisor**
-[**Sam Li**](https://www.linkedin.com/in/samsongli/) — *Crypto Operations & Ecosystem Partnerships*  
-Former **Engineering Leader at Coinbase and Meta**, and **Co-Founder/CTO of NewSky Security**, Sam advises QinAI Studio on crypto-integrated operations, ecosystem strategy, and sustainable AI growth.  
-He supports QinAI’s mission to shape **Human-First, Agentic AI** systems while maintaining a hands-off, advisory role.
+#### **Strategic Advisor**
+[**Sam Li**](https://www.linkedin.com/in/samsongli/) — *AI Infrastructure, Security & Emerging Tech*  
+
+A veteran engineering leader with experience at **Coinbase**, **Meta**, and as **Co-Founder & CTO of NewSky Security**, Sam brings deep expertise in **AI infrastructure**, **cloud systems**, **cybersecurity**, and **crypto technologies**.  
+
+As an advisor to **QinAI Studio**, he provides strategic and technical guidance on scalable, secure system design — helping advance QinAI’s mission to build **Human-First, privacy-centric AI agents**.  
+His insights strengthen the studio’s foundation in both **trust and innovation**, ensuring every product remains grounded in real-world reliability and ethical AI principles.
 
 ---
 
