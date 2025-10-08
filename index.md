@@ -13,7 +13,7 @@ We believe that the real moat in AI lies in execution, tooling, and data integri
 [**Lily Qin**](https://www.linkedin.com/in/lily-qin-2312382/) — *Engineering Leader & Human-First Technologist*
 
 Lily founded QinAI Studio after leading large-scale engineering initiatives at Microsoft, Walgreens, and Philips.
-Her background spans AI infrastructure, cloud automation, and data-driven healthcare systems,with earlier work in scientific computing where she contributed to patented technologies. With a passion for technology that amplifies human capability, she guides QinAI Studio’s mission to make AI workflows private, practical, and personal.
+Her background spans AI infrastructure, cloud automation, and data-driven healthcare systems, with earlier work in scientific computing where she contributed to patented technologies. With a passion for technology that amplifies human capability, she guides QinAI Studio’s mission to make AI workflows private, practical, and personal.
 
 #### **Strategic Advisor**
 [**Sam Li**](https://www.linkedin.com/in/samsongli/) — *AI Infrastructure, Security & Emerging Tech*
