@@ -1,3 +1,13 @@
+© 2025 QinAI Studio LLC. All rights reserved.  
+Licensed under CC BY-NC-ND 4.0 (Attribution-NonCommercial-NoDerivatives)
+
+---
+title: "Form Agent — Alpha User Guide"
+version: "v0.9 Alpha"
+last_updated: "Oct 2025"
+author: "QinAI Studio LLC"
+---
+
 # 🧠 QinAI Studio · Form Agent — Alpha User Guide
 
 Form Agent is a **privacy-first AI assistant** that helps you fill, review, and sign PDF forms automatically — all **on your own device**.  
@@ -122,3 +132,7 @@ Your input directly shapes the next version of Form Agent!
 ---
 
 > *© 2025 QinAI Studio — Human-First AI Workflows for Real People.*
+---
+**Prepared by :** Lily Qin · Founder & CEO, QinAI Studio LLC  
+📧 hongrong@qinaistudio.com 🌐 [www.qinaistudio.com](https://www.qinaistudio.com)
+
