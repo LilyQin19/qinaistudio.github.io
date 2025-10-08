@@ -49,5 +49,6 @@ As an advisor to **QinAI Studio**, he provides strategic and technical guidance 
 
 ---
 
-© 2025 **QinAI Studio LLC** · *Human-First AI Workflows for Real People*  
+© 2025 QinAI Studio LLC · Building Human-First AI Workflows that Empower People  
 All rights reserved.
+
