@@ -9,10 +9,20 @@ We focus on **agentic AI**, **developer platforms**, and **healthcare innovation
 ### **About Us**
 
 #### **Founder & CEO**
-[**Lily Qin**](https://www.linkedin.com/in/lily-qin-2312382/) — *Agentic AI Infrastructure & Product Innovation*  
-A former **Principal Engineering Leader** at **Microsoft, Walgreens, and Philips**, Lily founded **QinAI Studio** to build **Human-First AI workflows** that turn complex automation into something natural, private, and empowering.  
-Headquartered in **Seattle, WA**, QinAI Studio believes the real AI moat is built through **execution, tooling, and data** — not hype.  
-When AI amplifies people instead of replacing them, that’s real innovation.
+[**Lily Qin**](https://www.linkedin.com/in/lily-qin-2312382/) — *Engineer · Innovator · Builder of Human-First AI*
+
+With a career spanning **two decades across scientific computing, healthcare, and cloud AI**, Lily brings a rare blend of **engineering depth and human-centered vision** to technology.  
+
+Before founding **QinAI Studio**, she served as a **Principal Engineering Leader** at **Microsoft**, **Walgreens**, and **Philips Healthcare**, driving large-scale initiatives in **AI infrastructure**, **cloud automation**, and **intelligent data pipelines** that improved reliability, safety, and accessibility for millions of users.  
+
+Earlier in her career, Lily contributed to pioneering work in **signal and image processing** at **Kofax** and **Varian (now Bruker)** — developing systems for **neural network–based document analysis**, **wavelet compression**, and **scientific instrument control** in **mass spectrometry and chromatographic signal processing**.  
+Her innovations have led to **multiple U.S. patents** and enduring platform designs still in use today.  
+
+Lily founded **QinAI Studio** to advance a new generation of **Human-First, Agentic AI tools** — systems that empower people rather than replace them.  
+Her mission spans everyday domains like **HR**, **healthcare**, and **senior communities**, where she believes technology should simplify life, preserve privacy, and strengthen trust between humans and machines.  
+
+Based in **Seattle, Washington**, Lily continues to champion the belief that the real moat in AI is built through **execution, tooling, and data integrity** — not hype.
+
 
 
 #### **Strategic Advisor**
@@ -20,8 +30,7 @@ When AI amplifies people instead of replacing them, that’s real innovation.
 
 A veteran engineering leader with experience at **Coinbase**, **Meta**, and as **Co-Founder & CTO of NewSky Security**, Sam brings deep expertise in **AI infrastructure**, **cloud systems**, **cybersecurity**, and **crypto technologies**.  
 
-As an advisor to **QinAI Studio**, he provides strategic and technical guidance on scalable, secure system design — helping advance QinAI’s mission to build **Human-First, privacy-centric AI agents**.  
-His insights strengthen the studio’s foundation in both **trust and innovation**, ensuring every product remains grounded in real-world reliability and ethical AI principles.
+As an advisor to **QinAI Studio**, he provides strategic and technical guidance on scalable, secure system design — helping advance QinAI’s mission to build **Human-First, privacy-centric AI agents**.  His insights strengthen the studio’s foundation in both **trust and innovation**, ensuring every product remains grounded in real-world reliability and ethical AI principles.
 
 ---
 
