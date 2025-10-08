@@ -14,7 +14,7 @@ A former **Principal Engineering Leader** at **Microsoft, Walgreens, and Philips
 Headquartered in **Seattle, WA**, QinAI Studio believes the real AI moat is built through **execution, tooling, and data** — not hype.  
 When AI amplifies people instead of replacing them, that’s real innovation.
 
-#### **Strategic Advisor**
+
 #### **Strategic Advisor**
 [**Sam Li**](https://www.linkedin.com/in/samsongli/) — *AI Infrastructure, Security & Emerging Tech*  
 
