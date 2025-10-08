@@ -2,10 +2,10 @@
 Licensed under CC BY-NC-ND 4.0 (Attribution-NonCommercial-NoDerivatives)
 
 ---
-title: "Form Agent — Alpha User Guide"
-version: "v0.9 Alpha"
-last_updated: "Oct 2025"
-author: "QinAI Studio LLC"
+-title: "Form Agent — Alpha User Guide"
+-version: "v0.9 Alpha"
+-last_updated: "Oct 2025"
+-author: "QinAI Studio LLC"
 ---
 
 # 🧠 QinAI Studio · Form Agent — Alpha User Guide
