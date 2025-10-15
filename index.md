@@ -9,17 +9,41 @@ We believe that the real moat in AI lies in execution, tooling, and data integri
 
 ### **About Us**
 
-#### **Founder & CEO**
-[**Lily Qin**](https://www.linkedin.com/in/lily-qin-2312382/) — *Engineering Leader & Human-First Technologist*
+## 👥 Leadership Team
 
-Lily founded QinAI Studio after leading large-scale engineering initiatives at Microsoft, Walgreens, and Philips.
-Her background spans AI infrastructure, cloud automation, and data-driven healthcare systems, with earlier work in scientific computing where she contributed to patented technologies. With a passion for technology that amplifies human capability, she guides QinAI Studio’s mission to make AI workflows private, practical, and personal.
+<div align="center">
 
-#### **Strategic Advisor**
-[**Sam Li**](https://www.linkedin.com/in/samsongli/) — *AI Infrastructure, Security & Emerging Tech*
+<!-- Lily Qin -->
+  <img src="https://raw.githubusercontent.com/LilyQin19/qinaistudio.github.io/main/assets/LilyQin.jpg" 
+       alt="Lily Qin" width="160" style="border-radius:50%;border:2px solid #d4af37;margin-bottom:10px;">
+  
+  <h3><a href="https://www.linkedin.com/in/lily-qin-2312382/">Lily Qin</a></h3>
+  <em>Founder & CEO · Engineering Leader & Human-First Technologist</em>
 
-Sam is a veteran engineering leader with experience at Coinbase, Meta, and as Co-Founder/CTO of NewSky Security.  
-He advises QinAI Studio on secure, scalable systems and brings deep expertise in AI infrastructure, cybersecurity, and crypto technologies. His strategic and technical guidance helps ensure that QinAI’s products stay grounded in trust, privacy, and real-world reliability.
+  <p style="max-width:600px;margin:auto;">
+  Lily founded QinAI Studio after leading large-scale engineering initiatives at Microsoft, Walgreens, and Philips.
+  Her background spans AI infrastructure, cloud automation, and data-driven healthcare systems, with earlier work in scientific computing where she contributed to patented technologies. 
+  With a passion for technology that amplifies human capability, she guides QinAI Studio’s mission to make AI workflows private, practical, and personal.
+  </p>
+
+  <hr style="width:60%;border:1px solid #e0e0e0;margin:40px 0;">
+
+<!-- Sam Li -->
+  <img src="https://raw.githubusercontent.com/LilyQin19/qinaistudio.github.io/main/assets/SamLi.jpg" 
+       alt="Sam Li" width="140" style="border-radius:50%;border:2px solid #d4af37;margin-bottom:10px;">
+  
+  <h3><a href="https://www.linkedin.com/in/samsongli/">Sam Li</a></h3>
+  <em>Strategic Advisor · AI Infrastructure, Security & Emerging Tech</em>
+
+  <p style="max-width:600px;margin:auto;">
+  Sam is a veteran engineering leader with experience at Coinbase, Meta, and as Co-Founder/CTO of NewSky Security.
+  He advises QinAI Studio on secure, scalable systems and brings deep expertise in AI infrastructure, cybersecurity, and crypto technologies.
+  His strategic and technical guidance helps ensure that QinAI’s products stay grounded in trust, privacy, and real-world reliability.
+  </p>
+
+</div>
+
+
 
 ---
 
