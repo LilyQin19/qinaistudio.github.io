@@ -29,7 +29,7 @@ He advises QinAI Studio on secure, scalable systems and brings deep expertise in
 - **[Form Agent](https://qinaistudio-formagent.streamlit.app/)** — privacy-first intelligent form filling for HR, healthcare, and accessibility workflows.  
   📘 [User Guide](https://github.com/LilyQin19/qinaistudio.github.io/blob/main/FormAgent_UserGuide.md)
   <br>
-  🧾 *Patent Pending – U.S. Application No. 63/899,249*
+  🧾  <span style="color:#d4af37; font-weight:bold;">Patent Pending – U.S. Application No. 63/899,249*
 
 ---
 
