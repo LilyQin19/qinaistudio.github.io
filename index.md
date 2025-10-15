@@ -28,7 +28,8 @@ He advises QinAI Studio on secure, scalable systems and brings deep expertise in
 - **[Job Matching Scorecard](https://qinaistudio-jobmatch.streamlit.app/)** — aligns skills and roles through transparent, data-driven insights.  
 - **[Form Agent](https://qinaistudio-formagent.streamlit.app/)** — privacy-first intelligent form filling for HR, healthcare, and accessibility workflows.  
   📘 [User Guide](https://github.com/LilyQin19/qinaistudio.github.io/blob/main/FormAgent_UserGuide.md)
-  🧾 *Patent Pending – U.S. Provisional Application No. 63/899,249*
+  <br>
+  🧾 *Patent Pending – U.S. Application No. 63/899,249*
 
 ---
 
