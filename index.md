@@ -56,13 +56,22 @@ We believe that the real moat in AI lies in execution, tooling, and data integri
 
 ---
 
-### **Products**
-- **[Profile Trust Checker](https://qinaistudio-profilechecker.streamlit.app/)** — evaluates online profiles for authenticity and trust.  
-- **[Job Matching Scorecard](https://qinaistudio-jobmatch.streamlit.app/)** — aligns skills and roles through transparent, data-driven insights.  
-- **[Form Agent](https://qinaistudio-formagent.streamlit.app/)** — privacy-first intelligent form filling for HR, healthcare, and accessibility workflows.  
-  📘 [User Guide](https://github.com/LilyQin19/qinaistudio.github.io/blob/main/FormAgent_UserGuide.md)
-  <br>
-  🧾  <span style="color:#d4af37; font-weight:bold;">Patent Pending – U.S. Application No. 63/899,249*
+Products
+
+**Profile Trust Checker**
+ — evaluates  profiles (LinkedIN, resume or dating bio) for authenticity and trust.
+🎥 [Tutorial Video (7 min)](https://drive.google.com/file/d/13vwGN3uDVuF7IyEVLmvvK4GAg50trVMC/view)
+
+**Job Matching Scorecard**
+ — aligns skills and roles through transparent, data-driven insights.
+
+**Form Agent**
+ — privacy-first intelligent form filling for Government Forms, HR, healthcare, Immigration and accessibility workflows.
+📘 [User Guide] (https://github.com/LilyQin19/qinaistudio.github.io/blob/main/FormAgent_UserGuide.md)
+
+🎥 [Tutorial Video (14 min)](https://drive.google.com/file/d/18BF1jLBIaXCl9N16ZG3PMGCMgOCFAgxA/view)
+
+🧾 <span style="color:#d4af37; font-weight:bold;">Patent Pending – U.S. Application No. 63/899,249*</span>
 
 ---
 
