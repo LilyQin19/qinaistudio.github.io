@@ -60,7 +60,7 @@ Products
 
 **Profile Trust Checker**
  — evaluates  profiles (LinkedIN, resume or dating bio) for authenticity and trust.
-🎥 [Tutorial Video (7 min)](https://drive.google.com/file/d/13vwGN3uDVuF7IyEVLmvvK4GAg50trVMC/view)
+ <br>🎥 [Tutorial Video (7 min)](https://drive.google.com/file/d/13vwGN3uDVuF7IyEVLmvvK4GAg50trVMC/view)
 
 **Job Matching Scorecard**
  — aligns skills and roles through transparent, data-driven insights.
@@ -69,7 +69,7 @@ Products
  — privacy-first intelligent form filling for Government Forms, HR, healthcare, Immigration and accessibility workflows.
 📘 [User Guide] (https://github.com/LilyQin19/qinaistudio.github.io/blob/main/FormAgent_UserGuide.md)
 
-🎥 [Tutorial Video (14 min)](https://drive.google.com/file/d/18BF1jLBIaXCl9N16ZG3PMGCMgOCFAgxA/view)
+<br>🎥 [Tutorial Video (14 min)](https://drive.google.com/file/d/18BF1jLBIaXCl9N16ZG3PMGCMgOCFAgxA/view)
 
 🧾 <span style="color:#d4af37; font-weight:bold;">Patent Pending – U.S. Application No. 63/899,249*</span>
 
