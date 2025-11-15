@@ -16,7 +16,7 @@ We believe that the real moat in AI lies in execution, tooling, and data integri
  — privacy-first intelligent form filling for government forms, HR, healthcare, immigration and accessibility workflows.
 <br>📘 [User Guide](https://github.com/LilyQin19/qinaistudio.github.io/blob/main/FormAgent_UserGuide.md)
 <br>🎥 [Tutorial Video (14 min)](https://drive.google.com/file/d/18BF1jLBIaXCl9N16ZG3PMGCMgOCFAgxA/view)
-🧾 <span style="color:#d4af37; font-weight:bold;">Patent Pending – U.S. Application No. 63/899,249*</span>
+<br>🧾 <span style="color:#d4af37; font-weight:bold;">Patent Pending – U.S. Application No. 63/899,249*</span>
 
 **3. Job Matching Scorecard**
  — aligns skills and roles through transparent, data-driven insights.
