@@ -50,23 +50,6 @@ We believe that the real moat in AI lies in execution, tooling, and data integri
 
   <hr style="width:60%;border:1px solid #e0e0e0;margin:40px 0;">
 
-<!-- Advisor -->
-  <img src="https://raw.githubusercontent.com/LilyQin19/qinaistudio.github.io/main/assets/SamLi.jpg" 
-       alt="Sam Li" width="140" style="border-radius:50%;border:2px solid #d4af37;margin-bottom:10px;">
-  
-  <h3><a href="https://www.linkedin.com/in/samsongli/" target="_blank">Sam Li</a></h3>
-  <em>Strategic Advisor · AI Infrastructure, Security & Emerging Tech</em>
-
-  
-  <p style="max-width:600px;margin:auto;">
-  Sam is a veteran engineering leader with experience at Coinbase, Meta, and as Co-Founder/CTO of NewSky Security.
-  He advises QinAI Studio on secure, scalable systems and brings deep expertise in AI infrastructure, cybersecurity, and crypto technologies.
-  His strategic and technical guidance helps ensure that QinAI’s products stay grounded in trust, privacy, and real-world reliability.
-  </p>
-
-  <p>
-    🔗 <a href="https://www.linkedin.com/in/samsongli/" target="_blank" style="color:#d4af37;font-weight:bold;">Connect on LinkedIn</a>
-  </p>
 
 </div>
 
