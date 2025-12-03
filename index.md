@@ -10,19 +10,19 @@ We believe that the real moat in AI lies in execution, tooling, and data integri
 
 **1. Form Agent**
  — privacy-first intelligent form filling for government forms, HR, healthcare, immigration and accessibility workflows.
-<br> 🔗[Form Agent URL](https://form.qinaistudio.com/)
+<br> 🔗[Try Form Agent here!](https://form.qinaistudio.com/)
 <br>📘 [User Guide](https://github.com/LilyQin19/qinaistudio.github.io/blob/main/FormAgent_UserGuide.md)
 <br>🎥 [Tutorial Video (14 min)](https://drive.google.com/file/d/18BF1jLBIaXCl9N16ZG3PMGCMgOCFAgxA/view)
 <br>🧾 <span style="color:#d4af37; font-weight:bold;">Patent Pending – U.S. Application No. 63/899,249*</span>
 
 **2. Profile Trust Checker**
  — evaluates  profiles (LinkedIn Profile, Resume or Dating bio) for authenticity and trust.
- <br> 🔗[Profile Checker URL](https://profile.qinaistudio.com/)
+ <br> 🔗[Ret Profile Checker here!](https://profile.qinaistudio.com/)
  <br>🎥 [Tutorial Video (7 min)](https://drive.google.com/file/d/13vwGN3uDVuF7IyEVLmvvK4GAg50trVMC/view)
 
 **3. Job Matching Scorecard**
  — aligns skills and roles through transparent, data-driven insights.
- <br>🔗 [Job Match Public URL](https://job.qinaistudio.com/)
+ <br>🔗 [Try Job Match here!](https://job.qinaistudio.com/)
 
 ---
 
