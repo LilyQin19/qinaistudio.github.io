@@ -17,7 +17,7 @@ We believe that the real moat in AI lies in execution, tooling, and data integri
 
 **2. Profile Trust Checker**
  — evaluates  profiles (LinkedIn Profile, Resume or Dating bio) for authenticity and trust.
- <br> 🔗[Ret Profile Checker here!](https://profile.qinaistudio.com/)
+ <br> 🔗[Try Profile Checker here!](https://profile.qinaistudio.com/)
  <br>🎥 [Tutorial Video (7 min)](https://drive.google.com/file/d/13vwGN3uDVuF7IyEVLmvvK4GAg50trVMC/view)
 
 **3. Job Matching Scorecard**
