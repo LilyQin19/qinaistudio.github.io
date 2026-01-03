@@ -5,6 +5,7 @@ QinAI Studio builds human-first AI tools that simplify complex workflows and put
 Our focus is on agentic AI, privacy-first automation, and practical innovation across HR, healthcare, and productivity domains.  
 We believe that the real moat in AI lies in execution, tooling, and data integrity — not hype.
 
+Built by a Principal Software Engineer with experience delivering AI and large-scale systems at Microsoft, Walgreens, and Philips Healthcare.
 ---
 <h2 style="font-size: 30px; font-weight: 700;">Products</h2>
 
