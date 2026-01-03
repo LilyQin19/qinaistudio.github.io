@@ -10,6 +10,7 @@ We believe that the real moat in AI lies in execution, tooling, and data integri
 </em>
 ---
 <h2 style="font-size: 30px; font-weight: 700;">Products</h2>
+Each product is built and iterated as a production system, with an emphasis on reliability, privacy, and evaluation rigor.
 
 **1. Form Agent**
  — privacy-first intelligent form filling for government forms, HR, healthcare, immigration and accessibility workflows.
@@ -40,7 +41,7 @@ We believe that the real moat in AI lies in execution, tooling, and data integri
        alt="Lily Qin" width="160" style="border-radius:50%;border:2px solid #d4af37;margin-bottom:10px;">
   
   <h3><a href="https://www.linkedin.com/in/lily-qin-2312382/" target="_blank">Lily Qin</a></h3>
-  <em>Founder & CEO · Engineering Leader & Human-First Technologist</em>
+  <em>Founder & Principal Engineer · AI/ML Infrastructure & Agentic Systems</em>
 
   <br>
   <p style="max-width:600px;margin:auto;">
