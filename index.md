@@ -70,5 +70,5 @@ We believe that the real moat in AI lies in execution, tooling, and data integri
 
 ---
 
-© 2025 QinAI Studio LLC · Building Human-First AI Workflows that Empower People  
+© 2025--2026 QinAI Studio LLC · Building Human-First AI Workflows that Empower People  
 All rights reserved.
