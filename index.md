@@ -66,10 +66,10 @@ We believe that the real moat in AI lies in execution, tooling, and data integri
 
 
 ### **Contact**
-📧 hongrong@qinaistudio.com  
-🔗 LinkedIn: https://www.linkedin.com/in/lily-qin-2312382/  
-🌐 Website: https://www.qinaistudio.com  
-📰 Substack: https://qinai.substack.com/
+📧 [hongrong@qinaistudio.com](mailto:hongrong@qinaistudio.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/lily-qin-2312382/)  
+🌐 [www.qinaistudio.com](https://www.qinaistudio.com)  
+📰 [Substack](https://qinai.substack.com/)
 
 ---
 
