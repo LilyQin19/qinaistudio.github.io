@@ -19,7 +19,6 @@ Healthcare runs on paperwork. We're here to end that.
 **1. Form Agent** — *Flagship*
 AI that reads, fills, and submits healthcare forms — correctly, the first time.
 Built for accessibility: voice input, large fonts, high contrast, and screen reader support — designed for elderly, disabled, and underserved patients.
-
 <br>🔗 [Try Form Agent](https://form.qinaistudio.com/)
 <br>📘 [User Guide](https://github.com/LilyQin19/qinaistudio.github.io/blob/main/FormAgent_UserGuide.md)
 <br>🧾 <span style="color:#d4af37; font-weight:bold;">Patent Pending – U.S. Application No. 63/899,249</span>
@@ -27,13 +26,11 @@ Built for accessibility: voice input, large fonts, high contrast, and screen rea
 
 **2. Profile Trust Checker**
 Evaluates LinkedIn profiles, resumes, and bios for authenticity and trust.
-
 <br>🔗 [Try Profile Checker](https://profile.qinaistudio.com/)
 <br>🎥 [Full Walkthrough (5 min)](https://drive.google.com/file/d/13vwGN3uDVuF7IyEVLmvvK4GAg50trVMC/view?usp=drive_link)
 
 **3. Job Matching Scorecard**
 Aligns skills and roles through transparent, data-driven insights.
-
 <br>🔗 [Try Job Match](https://job.qinaistudio.com/)
 
 ---
@@ -45,7 +42,7 @@ Aligns skills and roles through transparent, data-driven insights.
        alt="Lily Qin" width="160" style="border-radius:50%;border:2px solid #d4af37;margin-bottom:10px;">
 
   <h3><a href="https://www.linkedin.com/in/lily-qin-2312382/" target="_blank">Lily Qin</a></h3>
-  <em>Founder & Principal Engineer · Healthcare AI & Agentic Systems</em>
+  <em>Founder & CEO · Healthcare AI & Agentic Systems</em>
 
   <br>
 
