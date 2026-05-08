@@ -3,8 +3,6 @@
        alt="QinAI Studio" width="200" style="border-radius:8px;margin-bottom:20px;">
 </div>
 
-# QinAI Studio
-
 ### **Mission**
 Healthcare runs on paperwork. We're here to end that.
 
