@@ -4,7 +4,7 @@
 </div>
 
 ## 🎯 Mission
-Healthcare runs on paperwork. We're here to end that.
+Healthcare runs on paperwork. We're here to end that.<br>
 *Built by Lily Qin, who spent a decade inside healthcare's broken systems — and decided to fix them.*
 
 
