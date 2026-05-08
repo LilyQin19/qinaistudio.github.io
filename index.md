@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/LilyQin19/qinaistudio.github.io/main/assets/images/Full_QinAI_Logo.png" 
-       alt="QinAI Studio" width="280" style="margin-bottom:20px;">
+       alt="QinAI Studio" width="200" style="border-radius:8px;margin-bottom:20px;">
 </div>
 
 # QinAI Studio
