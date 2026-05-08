@@ -18,7 +18,7 @@ Healthcare runs on paperwork. We're here to end that.<br>
   <br><br>
   <p style="max-width:600px;margin:auto;text-align:left;">
   🏥 10+ years in healthcare AI — Philips, Proprio, Walgreens<br>
-  💻 20+ years enterprise engineering — Microsoft, Kofax, Varian and Bruker<br>
+  💻 20+ years enterprise engineering — Microsoft, Kofax, Varian<br>
   🧬 Patent-pending inventor · QinAI Form Agent<br>
   🌏 First-generation immigrant — building for the underserved<br>
   </p>
