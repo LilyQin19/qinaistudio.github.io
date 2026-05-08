@@ -37,7 +37,7 @@ Healthcare runs on paperwork. We're here to end that.<br>
 *Each product is built and iterated as a production system, with an emphasis on reliability, privacy, and evaluation rigor.*
 
 **1. Form Agent** — *Flagship*
-AI that reads, fills, and submits healthcare forms — correctly, the first time.<br>
+AI agent reads, fills, and submits healthcare forms — correctly, the first time.<br>
 Built for accessibility: voice input, large fonts, high contrast, and screen reader support. <br>
 Designed for elderly, disabled, and underserved patients.
 <br>🔗 [Try Form Agent](https://form.qinaistudio.com/)
