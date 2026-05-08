@@ -8,7 +8,7 @@ Healthcare runs on paperwork. We're here to end that.<br>
 *Built by Lily Qin, who spent a decade inside healthcare's broken systems — and decided to fix them.*
 
 
-## 👥 About
+## 🌟 About
 <div align="center">
   <img src="https://raw.githubusercontent.com/LilyQin19/qinaistudio.github.io/main/assets/LilyQin.jpg" 
        alt="Lily Qin" width="160" style="border-radius:50%;border:2px solid #d4af37;margin-bottom:10px;">
