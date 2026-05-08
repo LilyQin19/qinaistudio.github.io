@@ -8,6 +8,30 @@ Healthcare runs on paperwork. We're here to end that.
 
 *Built by Lily Qin, who spent a decade inside healthcare's broken systems — and decided to fix them.*
 
+
+## 👥 About
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LilyQin19/qinaistudio.github.io/main/assets/LilyQin.jpg" 
+       alt="Lily Qin" width="160" style="border-radius:50%;border:2px solid #d4af37;margin-bottom:10px;">
+
+  <h3><a href="https://www.linkedin.com/in/lily-qin-2312382/" target="_blank">Lily Qin</a></h3>
+  
+  <strong><em>Founder & CEO </em></strong>
+  <br><br>
+  <p style="max-width:600px;margin:auto;text-align:left;">
+  🏥 10+ years in healthcare AI — Philips, Proprio, Walgreens<br>
+  💻 20+ years enterprise engineering — Microsoft, Kofax, Varian and Bruker<br>
+  🧬 Patent-pending inventor · QinAI Form Agent<br>
+  🌏 First-generation immigrant — building for the underserved<br>
+  </p>
+
+  🎥 <strong><a href="https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link">Meet Lily (1 min)</a></strong>
+  &nbsp;|&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/lily-qin-2312382/" target="_blank" style="color:#d4af37;font-weight:bold;">Connect on LinkedIn</a>
+
+</div>
+
 ## 🎥 See It In Action
 | 🚀 **[1-Min Product Pitch](https://drive.google.com/file/d/1xdIymcdA7ZctfAV1cBbpOVW_Df7_t_rw/view?usp=drive_link)** 
 | 👤 **[Meet the Founder (1 Min)](https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link)** |
@@ -33,41 +57,12 @@ Evaluates LinkedIn profiles, resumes, and bios for authenticity and trust.
 Aligns skills and roles through transparent, data-driven insights.
 <br>🔗 [Try Job Match](https://job.qinaistudio.com/)
 
----
-
-## 👥 About
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LilyQin19/qinaistudio.github.io/main/assets/LilyQin.jpg" 
-       alt="Lily Qin" width="160" style="border-radius:50%;border:2px solid #d4af37;margin-bottom:10px;">
-
-  <h3><a href="https://www.linkedin.com/in/lily-qin-2312382/" target="_blank">Lily Qin</a></h3>
-  
-  <strong><em>Founder & CEO </em></strong>
-  <br><br>
-  <p style="max-width:600px;margin:auto;text-align:left;">
-  🏥 10+ years in healthcare AI — Philips, Proprio, Walgreens<br>
-  💻 20+ years enterprise engineering — Microsoft, Kofax, Varian and Bruker<br>
-  🧬 Patent-pending inventor · QinAI Form Agent<br>
-  🌏 First-generation immigrant — building for the underserved<br>
-  </p>
-
-  🎥 <strong><a href="https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link">Meet Lily (1 min)</a></strong>
-  &nbsp;|&nbsp;
-  🔗 <a href="https://www.linkedin.com/in/lily-qin-2312382/" target="_blank" style="color:#d4af37;font-weight:bold;">Connect on LinkedIn</a>
-
-</div>
-
----
-
 ## Contact
-
 📧 [hongrong@qinaistudio.com](mailto:hongrong@qinaistudio.com)
 <br>🔗 [LinkedIn](https://www.linkedin.com/in/lily-qin-2312382/)
 <br>🌐 [www.qinaistudio.com](https://www.qinaistudio.com)
 <br>📰 [Substack](https://qinai.substack.com/)
 
----
 
 © 2025–2026 QinAI Studio LLC · Healthcare runs on paperwork. We're here to end that.
 All rights reserved.
