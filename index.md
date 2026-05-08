@@ -8,15 +8,9 @@ Healthcare runs on paperwork. We're here to end that.
 
 *Built by Lily Qin, who spent a decade inside healthcare's broken systems — and decided to fix them.*
 
----
-
 ## 🎥 See It In Action
-
-| | |
-|---|---|
-| 🚀 **[1-Min Product Pitch](https://drive.google.com/file/d/1xdIymcdA7ZctfAV1cBbpOVW_Df7_t_rw/view?usp=drive_link)** | 👤 **[Meet the Founder (1 Min)](https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link)** |
-
----
+| 🚀 **[1-Min Product Pitch](https://drive.google.com/file/d/1xdIymcdA7ZctfAV1cBbpOVW_Df7_t_rw/view?usp=drive_link)** 
+| 👤 **[Meet the Founder (1 Min)](https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link)** |
 
 ## Products
 
