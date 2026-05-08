@@ -10,7 +10,7 @@ body {
   color: #fff;
   text-align: center;
   background: linear-gradient(120deg, #155799, #159957);
-  padding: 2rem 2rem;
+  padding: 0.8rem 2rem;
 }
 
 .project-name {
@@ -20,7 +20,7 @@ body {
 }
 
 .project-tagline {
-  margin-bottom: 2rem;
+  margin-bottom: 0.5rem;
   font-weight: normal;
   opacity: 0.7;
 }
