@@ -59,7 +59,3 @@ Aligns skills and roles through transparent, data-driven insights.
 <br>🔗 [LinkedIn](https://www.linkedin.com/in/lily-qin-2312382/)
 <br>🌐 [www.qinaistudio.com](https://www.qinaistudio.com)
 <br>📰 [Substack](https://qinai.substack.com/)
-
-
-© 2025–2026 QinAI Studio LLC · Healthcare runs on paperwork. We're here to end that.
-All rights reserved.
