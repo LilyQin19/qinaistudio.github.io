@@ -3,7 +3,7 @@
        alt="QinAI Studio" width="180" style="margin:0;padding:0;display:block;">
 </div>
 
-## 🎯 Mission
+## ❤️‍🩹 Mission
 Healthcare runs on paperwork. We're here to end that.<br>
 *Built by Lily Qin, who spent a decade inside healthcare's broken systems — and decided to fix them.*
 
@@ -23,16 +23,16 @@ Healthcare runs on paperwork. We're here to end that.<br>
   🌏 First-generation immigrant — building for the underserved<br>
   </p>
 
-  🎥 <strong><a href="https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link">Meet Lily (1 min)</a></strong>
+  🌟 <strong><a href="https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link">Meet Lily (1 min)</a></strong>
   &nbsp;|&nbsp;
   🔗 <a href="https://www.linkedin.com/in/lily-qin-2312382/" target="_blank" style="color:#d4af37;font-weight:bold;">Connect on LinkedIn</a>
 </div>
 
-## 🎥 See It In Action
-| 🚀 **[1-Min Product Pitch](https://drive.google.com/file/d/1xdIymcdA7ZctfAV1cBbpOVW_Df7_t_rw/view?usp=drive_link)** 
-| 👤 **[Meet the Founder (1 Min)](https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link)** |
+## 🎬 See It In Action
+| ⚗️ **[1-Min Product Pitch](https://drive.google.com/file/d/1xdIymcdA7ZctfAV1cBbpOVW_Df7_t_rw/view?usp=drive_link)** 
+| ✨ **[Meet the Founder (1 Min)](https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link)** |
 
-## Products
+## 🛠️Products
 
 *Each product is built and iterated as a production system, with an emphasis on reliability, privacy, and evaluation rigor.*
 
@@ -53,7 +53,7 @@ Evaluates LinkedIn profiles, resumes, and bios for authenticity and trust.
 Aligns skills and roles through transparent, data-driven insights.
 <br>🔗 [Try Job Match](https://job.qinaistudio.com/)
 
-## Contact
+## 📬 Contact:
 📧 [hongrong@qinaistudio.com](mailto:hongrong@qinaistudio.com)
 <br>🔗 [LinkedIn](https://www.linkedin.com/in/lily-qin-2312382/)
 <br>🌐 [www.qinaistudio.com](https://www.qinaistudio.com)
