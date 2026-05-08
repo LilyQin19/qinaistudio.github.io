@@ -42,17 +42,15 @@ Aligns skills and roles through transparent, data-driven insights.
        alt="Lily Qin" width="160" style="border-radius:50%;border:2px solid #d4af37;margin-bottom:10px;">
 
   <h3><a href="https://www.linkedin.com/in/lily-qin-2312382/" target="_blank">Lily Qin</a></h3>
+  
   <em>Founder & CEO · Healthcare AI & Agentic Systems</em>
-
-  <br>
-
-  <p style="max-width:600px;margin:auto;">
-  20+ years delivering enterprise AI at Microsoft, Walgreens, and Philips Healthcare.
-  First-generation immigrant with lived experience navigating complex healthcare and government systems.
-  Patent-pending inventor. Building AI that works for the people who need it most.
+  <br><br>
+  <p style="max-width:600px;margin:auto;text-align:left;">
+  🏥 10+ years in healthcare AI — Philips, Proprio, Walgreens<br>
+  💻 20+ years enterprise engineering — Microsoft<br>
+  🧬 Patent-pending inventor · QinAI Form Agent<br>
+  🌏 First-generation immigrant — building for the underserved<br>
   </p>
-
-  <br>
 
   🎥 <strong><a href="https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link">Meet Lily (1 min)</a></strong>
   &nbsp;|&nbsp;
