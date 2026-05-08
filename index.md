@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LilyQin19/qinaistudio.github.io/main/assets/Full_QinAI_Logo.png" 
+       alt="QinAI Studio" width="280" style="margin-bottom:20px;">
+</div>
+
 # QinAI Studio
 
 ### **Mission**
@@ -11,7 +16,7 @@ Healthcare runs on paperwork. We're here to end that.
 
 | | |
 |---|---|
-| 🚀 **[Watch 1-Min Product Demo](https://drive.google.com/file/d/1xdIymcdA7ZctfAV1cBbpOVW_Df7_t_rw/view?usp=drive_link)** | 👤 **[Meet the Founder (1 Min)](https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link)** |
+| 🚀 **[1-Min Product Pitch](https://drive.google.com/file/d/1xdIymcdA7ZctfAV1cBbpOVW_Df7_t_rw/view?usp=drive_link)** | 👤 **[Meet the Founder (1 Min)](https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link)** |
 
 ---
 
@@ -23,17 +28,16 @@ Healthcare runs on paperwork. We're here to end that.
 AI that reads, fills, and submits healthcare forms — correctly, the first time.
 Built for accessibility: voice input, large fonts, high contrast, and screen reader support — designed for elderly, disabled, and underserved patients.
 
-<br>🎥 **[Watch 1-Min Demo](https://drive.google.com/file/d/1xdIymcdA7ZctfAV1cBbpOVW_Df7_t_rw/view?usp=drive_link)**
 <br>🔗 [Try Form Agent](https://form.qinaistudio.com/)
 <br>📘 [User Guide](https://github.com/LilyQin19/qinaistudio.github.io/blob/main/FormAgent_UserGuide.md)
-<br>🎥 [Full Tutorial (14 min)](https://drive.google.com/file/d/18BF1jLBIaXCl9N16ZG3PMGCMgOCFAgxA/view)
 <br>🧾 <span style="color:#d4af37; font-weight:bold;">Patent Pending – U.S. Application No. 63/899,249</span>
+<br>🎥 [Full Walkthrough (10 min)](https://drive.google.com/file/d/18BF1jLBIaXCl9N16ZG3PMGCMgOCFAgxA/view?usp=drive_link)
 
 **2. Profile Trust Checker**
 Evaluates LinkedIn profiles, resumes, and bios for authenticity and trust.
 
 <br>🔗 [Try Profile Checker](https://profile.qinaistudio.com/)
-<br>🎥 [Tutorial Video (7 min)](https://drive.google.com/file/d/13vwGN3uDVlK4GAg50trVMC/view)
+<br>🎥 [Full Walkthrough (5 min)](https://drive.google.com/file/d/13vwGN3uDVuF7IyEVLmvvK4GAg50trVMC/view?usp=drive_link)
 
 **3. Job Matching Scorecard**
 Aligns skills and roles through transparent, data-driven insights.
