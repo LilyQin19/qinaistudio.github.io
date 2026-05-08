@@ -3,17 +3,15 @@
        alt="QinAI Studio" width="180" style="margin:0;padding:0;display:block;">
 </div>
 
-## 🎯 **Mission**
+## 🎯 Mission
 Healthcare runs on paperwork. We're here to end that.
 *Built by Lily Qin, who spent a decade inside healthcare's broken systems — and decided to fix them.*
 
 
 ## 👥 About
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/LilyQin19/qinaistudio.github.io/main/assets/LilyQin.jpg" 
        alt="Lily Qin" width="160" style="border-radius:50%;border:2px solid #d4af37;margin-bottom:10px;">
-
   <h3><a href="https://www.linkedin.com/in/lily-qin-2312382/" target="_blank">Lily Qin</a></h3>
   
   <strong><em>Founder & CEO </em></strong>
@@ -28,7 +26,6 @@ Healthcare runs on paperwork. We're here to end that.
   🎥 <strong><a href="https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link">Meet Lily (1 min)</a></strong>
   &nbsp;|&nbsp;
   🔗 <a href="https://www.linkedin.com/in/lily-qin-2312382/" target="_blank" style="color:#d4af37;font-weight:bold;">Connect on LinkedIn</a>
-
 </div>
 
 ## 🎥 See It In Action
