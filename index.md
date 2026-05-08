@@ -43,11 +43,11 @@ Aligns skills and roles through transparent, data-driven insights.
 
   <h3><a href="https://www.linkedin.com/in/lily-qin-2312382/" target="_blank">Lily Qin</a></h3>
   
-  <em>Founder & CEO · Healthcare AI & Agentic Systems</em>
+  <em>Founder & CEO </em>
   <br><br>
   <p style="max-width:600px;margin:auto;text-align:left;">
   🏥 10+ years in healthcare AI — Philips, Proprio, Walgreens<br>
-  💻 20+ years enterprise engineering — Microsoft<br>
+  💻 20+ years enterprise engineering — Microsoft, Kofax, Varian and Bruker<br>
   🧬 Patent-pending inventor · QinAI Form Agent<br>
   🌏 First-generation immigrant — building for the underserved<br>
   </p>
