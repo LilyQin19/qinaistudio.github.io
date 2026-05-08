@@ -1,11 +1,10 @@
-<div align="center">
+<div align="center" style="margin:0;padding:0;">
   <img src="https://raw.githubusercontent.com/LilyQin19/qinaistudio.github.io/main/assets/images/Full_QinAI_Logo.png" 
-       alt="QinAI Studio" width="200" style="border-radius:8px;margin-bottom:4px;">
+       alt="QinAI Studio" width="180" style="margin:0;padding:0;display:block;">
 </div>
 
-### 🎯 **Mission**
+## 🎯 **Mission**
 Healthcare runs on paperwork. We're here to end that.
-
 *Built by Lily Qin, who spent a decade inside healthcare's broken systems — and decided to fix them.*
 
 
