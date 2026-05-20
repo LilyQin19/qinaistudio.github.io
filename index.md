@@ -43,7 +43,8 @@ Designed for elderly, disabled, and underserved patients.
 <br>🔗 [Try Form Agent](https://form.qinaistudio.com/)
 <br>📘 [User Guide](https://github.com/LilyQin19/qinaistudio.github.io/blob/main/FormAgent_UserGuide.md)
 <br>🧾 <span style="color:#d4af37; font-weight:bold;">Patent Pending – U.S. Application No. 63/899,249</span>
-<br>🎥 [Full Walkthrough (10 min)](https://drive.google.com/file/d/18BF1jLBIaXCl9N16ZG3PMGCMgOCFAgxA/view?usp=drive_link)
+<br>🎥 [Quick Product Demo (3 min)](https://drive.google.com/file/d/1bSJWCJMuAFQv7TlcqSDYY_p_ZOgYQSnN/view?usp=drive_link)
+<br>🎥 [Full Walkthrough (14 min)](https://drive.google.com/file/d/18BF1jLBIaXCl9N16ZG3PMGCMgOCFAgxA/view?usp=drive_link)
 
 **2. Profile Trust Checker**
 Evaluates LinkedIn profiles, resumes, and bios for authenticity and trust.
