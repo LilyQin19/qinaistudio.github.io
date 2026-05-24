@@ -32,7 +32,7 @@ Healthcare runs on paperwork. We're here to end that.<br>
 | ⚗️ **[1-Min Product Pitch](https://drive.google.com/file/d/1xdIymcdA7ZctfAV1cBbpOVW_Df7_t_rw/view?usp=drive_link)** 
 | ✨ **[Meet the Founder (1 Min)](https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link)** |
 
-## 🛠️Products  -- Form Agent!
+## 🛠️Product -- Form Agent!
 
 AI agent reads, fills, and submits healthcare forms — correctly, the first time.<br>
 Built for accessibility: voice input, large fonts, high contrast, and screen reader support. <br>
