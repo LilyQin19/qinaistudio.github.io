@@ -32,11 +32,8 @@ Healthcare runs on paperwork. We're here to end that.<br>
 | ⚗️ **[1-Min Product Pitch](https://drive.google.com/file/d/1xdIymcdA7ZctfAV1cBbpOVW_Df7_t_rw/view?usp=drive_link)** 
 | ✨ **[Meet the Founder (1 Min)](https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link)** |
 
-## 🛠️Products
+## 🛠️Products  -- Form Agent!
 
-*Each product is built and iterated as a production system, with an emphasis on reliability, privacy, and evaluation rigor.*
-
-**1. Form Agent** — *Flagship*
 AI agent reads, fills, and submits healthcare forms — correctly, the first time.<br>
 Built for accessibility: voice input, large fonts, high contrast, and screen reader support. <br>
 Designed for elderly, disabled, and underserved patients.
@@ -46,14 +43,6 @@ Designed for elderly, disabled, and underserved patients.
 <br>🎥 [Quick Product Demo (3 min)](https://drive.google.com/file/d/1bSJWCJMuAFQv7TlcqSDYY_p_ZOgYQSnN/view?usp=drive_link)
 <br>🎥 [Full Walkthrough (14 min)](https://drive.google.com/file/d/18BF1jLBIaXCl9N16ZG3PMGCMgOCFAgxA/view?usp=drive_link)
 
-**2. Profile Trust Checker**
-Evaluates LinkedIn profiles, resumes, and bios for authenticity and trust.
-<br>🔗 [Try Profile Checker](https://profile.qinaistudio.com/)
-<br>🎥 [Full Walkthrough (5 min)](https://drive.google.com/file/d/13vwGN3uDVuF7IyEVLmvvK4GAg50trVMC/view?usp=drive_link)
-
-**3. Job Matching Scorecard**
-Aligns skills and roles through transparent, data-driven insights.
-<br>🔗 [Try Job Match](https://job.qinaistudio.com/)
 
 ## 📬 Contact:
 📧 [hongrong@qinaistudio.com](mailto:hongrong@qinaistudio.com)
